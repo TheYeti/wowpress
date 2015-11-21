@@ -1,5 +1,5 @@
 === WoWHead Tooltips ===
-Contributors: theyeti
+Contributors: Matt 'The Yeti' Burnett
 Donate link: -
 Tags: wowhead, tooltips, world of warcraft, wow, shortcode, plugin
 Requires at least: 4.3.1
